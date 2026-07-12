@@ -1,0 +1,11 @@
+AI Automation Journey Started
+
+Day 1 Notes
+
+10 July
+
+Today's Work:
+- VS Code installed
+- Git installed
+- VS Code extensions installed
+- Folder setup completed

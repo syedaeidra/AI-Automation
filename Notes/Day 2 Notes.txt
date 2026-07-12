@@ -1,0 +1,29 @@
+AI Automation Journey
+
+Day 2 Notes
+
+Date: 11 July 2026
+
+Today's Work:
+✔️ Created my GitHub account.
+✔️ Learned the difference between Git and GitHub.
+✔️ Created my first GitHub repository.
+✔️ Repository Name: ai-automation-journey
+✔️ Added a README.md file.
+✔️ Made my first Git commit.
+✔️ Updated my GitHub profile.
+
+Today's Learning:
+* Git is a version control system that tracks changes in projects.
+* GitHub is a cloud platform where projects are stored online.
+* A Repository (Repo) is a project folder on GitHub.
+* README.md is the introduction page of a repository.
+* A Commit saves changes with a message.
+
+Questions:
+* None
+
+Next Goal:
+* Connect VS Code with GitHub.
+* Upload my AI Automation Journey folder to GitHub.
+* Learn basic Git commands.
