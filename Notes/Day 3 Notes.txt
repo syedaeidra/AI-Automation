@@ -1,0 +1,23 @@
+# Day 3 Notes
+
+## Topics Learned
+- Git Basics
+- GitHub Account Setup
+- Git Configuration
+- VS Code Git Integration
+- Local Commit
+- Publish Repository to GitHub
+
+## What I Did Today
+- Created my GitHub account.
+- Created my first repository.
+- Configured Git with my name and email.
+- Connected VS Code to GitHub.
+- Published my project to GitHub successfully.
+
+## Commands Used
+git config --global user.name "Syeda Mahbuba Jannat Eidra"
+git config --global user.email "syedaeidra17@gmail.com"
+
+## Result
+✅ My AI-Automation project is now available on GitHub.
