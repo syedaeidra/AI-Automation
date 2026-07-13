@@ -1,0 +1,26 @@
+Day 4 Notes
+
+Topics Learned:
+- Terminal Basics
+- HTML Introduction
+- Live Server
+
+Commands Learned:
+pwd
+ls
+cd
+cd ..
+New-Item
+Rename-Item
+
+HTML Tags Learned:
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+<body>
+<h1>
+<p>
+
+Achievement:
+Today I created my first web page using HTML and viewed it in my browser with Live Server
